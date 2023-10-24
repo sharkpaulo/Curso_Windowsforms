@@ -1,0 +1,6 @@
+C:\WindowsForm\Curso\CursoWindowsForms\CursoWindonsFormsBibliotecas\bin\Debug\CursoWindonsFormsBibliotecas.dll
+C:\WindowsForm\Curso\CursoWindowsForms\CursoWindonsFormsBibliotecas\bin\Debug\CursoWindonsFormsBibliotecas.pdb
+C:\WindowsForm\Curso\CursoWindowsForms\CursoWindonsFormsBibliotecas\obj\Debug\CursoWindonsFormsBibliotecas.csproj.AssemblyReference.cache
+C:\WindowsForm\Curso\CursoWindowsForms\CursoWindonsFormsBibliotecas\obj\Debug\CursoWindonsFormsBibliotecas.csproj.CoreCompileInputs.cache
+C:\WindowsForm\Curso\CursoWindowsForms\CursoWindonsFormsBibliotecas\obj\Debug\CursoWindonsFormsBibliotecas.dll
+C:\WindowsForm\Curso\CursoWindowsForms\CursoWindonsFormsBibliotecas\obj\Debug\CursoWindonsFormsBibliotecas.pdb
